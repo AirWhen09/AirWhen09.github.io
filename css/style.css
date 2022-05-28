@@ -10,6 +10,11 @@
     height: 50px;
 }
 
+.navbar-nav > .nav-item:hover{
+    border-bottom: #fff 1px solid;
+    border-top: #fff 1px solid;
+}
+
 .carousel-item > img {
     height: 600px;
 }
