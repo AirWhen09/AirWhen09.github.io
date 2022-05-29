@@ -10,6 +10,11 @@
     height: 50px;
 }
 
+.navbar-nav > .nav-item{
+    border-bottom: #9D0B0B 1px solid;
+    border-top: #9D0B0B 1px solid;
+}
+
 .navbar-nav > .nav-item:hover{
     border-bottom: #fff 1px solid;
     border-top: #fff 1px solid;
